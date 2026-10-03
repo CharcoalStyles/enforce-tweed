@@ -20,8 +20,8 @@ class FlxCstyLogo extends FlxState
 	private var nextState:FlxState;
 
 	private var cstyLogoPixels:Array<FlxPoint>;
-	private var timerLength:Float = 0.1;
-	private var timer:Float = 0.1;
+	private var timerLength:Float = 0.06;
+	private var timer:Float = 0.06;
 	private var updatingPixels:Array<UpdPix>;
 
 	private var logoFinished:Bool = false;

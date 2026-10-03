@@ -19,5 +19,8 @@
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
   "typescript.tsserver.experimental.enableProjectDiagnostics": false,
-  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "cSpell.words": [
+    "Tilemap"
+  ]
 }
