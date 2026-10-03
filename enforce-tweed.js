@@ -91148,7 +91148,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 921256;
+	this.version = 846565;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
@@ -142966,6 +142966,7 @@ states_MainMenuState.prototype = $extend(flixel_FlxState.prototype,{
 			flixel_FlxG.set_fullscreen(!flixel_FlxG.get_fullscreen());
 		});
 		mainPage.show(true);
+		settingsPage.hide(true);
 		this.add(menu);
 		this.globalState.createEmitter();
 		this.add(this.globalState.emitter.activeMembers);
