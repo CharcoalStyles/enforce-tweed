@@ -1,3 +1,22 @@
+# 2026-10-04 21:41:41
+
+On and off today, teamed up with some rest and cleaning hte house.
+
+We have a basemap generator, a placeholder "base", a placeholder "spawner", a placeholder creep to spawn, the stuff setup to path the creeps, and the first pass of being able to place walls.
+
+Not too bad, but I did spend a bit too much time on a few visual things that don't really matter right now (the basemap and some of hte creep stuff)
+
+Also, I might need to enforce some pomodoro and no YouTube when working on this. It's at least worth a try.
+
+Also, I had some more thoughts about the gameplay.
+
+1. Placed words give bonus meta-currency when you win (for longer words? or based ons scrabble style scores?)
+1. Placed letters/words can be targets for Runes (things like in Letterlike and actual words/word groups). 
+1. TD game has it's own currency, with a base amount to start with and x per kill, and possibly an interest rate.
+1. TD-currency can be upgraded with runes, possibly consumables, possibly a levelling system, etc.
+
+I think that's about it for now.
+
 # 2026-10-03 20:15:08
 
 Can you believe it? Another new project before I even did much with the last one!

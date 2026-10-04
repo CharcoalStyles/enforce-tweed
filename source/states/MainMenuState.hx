@@ -40,18 +40,17 @@ class MainMenuState extends FlxState
 			FlxG.switchState(() -> new PlayState());
 		});
 
-		// if on pc, add a quit option ot the main menu
+		mainPage.addItem("Settings", () ->
+		{
+			menu.openPage("Settings");
+		});
+
 		#if !html5
 		mainPage.addItem("Quit", () ->
 		{
 			Sys.exit(0);
 		});
 		#end
-
-		mainPage.addItem("Settings", () ->
-		{
-			menu.openPage("Settings");
-		});
 
 		settingsPage.addItem("Back", () ->
 		{

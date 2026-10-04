@@ -2,11 +2,11 @@
 
 ## Tower Defense Game
 [x] Generate map background
-[ ] place start and end points
-[ ] Setup routing stuff
+[x] place start and end points
+[x] Setup routing stuff
 [ ] generic placeable wall tiles
 [ ] initial tower + make it placeable
-[ ] initial creep + set it to move to the end point
+[x] initial creep + set it to move to the end point
 
 ## Word-mazing system
 [ ] Get a word list
@@ -22,7 +22,7 @@
 ## Meta rougelite mechanics
 [ ] Overworld map?
 [ ] Shop for upgrades
-[ ] Runes
+[ ] Runes (i.e. trinkets, jokers)
 [ ] Consumables
 
 
